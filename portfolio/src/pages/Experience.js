@@ -44,7 +44,7 @@ function Experience(){
                     <h3 className="vertical-timeline-element-title">
                         "Aggies in the Andes", Santiago, Chile
                     </h3>
-                    <p>Summer Study Abroad Program</p>
+                    <p>Study Abroad Program</p>
                 </VerticalTimelineElement>
                 
                 <VerticalTimelineElement className="vertical-timeline-element--work"
